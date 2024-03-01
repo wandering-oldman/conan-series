@@ -1,0 +1,96 @@
+	{
+   "name": "GUFLIX",
+   "author": "Copyright by ผู้เฒ่าพเนจร",
+   "url": "",
+   "image": "https://www.dropbox.com/scl/fi/j8uynudhcemppxyngxdql/gluflix.png?rlkey=mme78m06wz9n4arfaygpfezav&dl=1",
+   "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+		 
+   "groups": [
+
+	 
+			{ 
+				"name": "Guflix Movies", 
+				"image": "https://www.dropbox.com/scl/fi/hrh1p6bbr32gperp4q49b/guflix-movies.png?rlkey=egc0tlox40kjbaonbfko0qdx3&dl=1", 
+				"url": "https://www.dropbox.com/scl/fi/0u8dvu7tseq8whcbrbpgw/guflix-movies-folder.txt?rlkey=ejv1nvhnzew60s05arprh2hn4&dl=1", 		
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+	 	 
+			{ 
+				"name": "Guflix Series", 
+				"image": "https://www.dropbox.com/scl/fi/96d7nz1h7x8gzhwmdul3r/guflix-series.png?rlkey=8awxetpxpxc9eup5yv6g4vhx2&dl=1", 
+				"url": "https://www.dropbox.com/scl/fi/fjuahaqk31zaju8xglldc/guflix-series-folder.txt?rlkey=nata6hvgw2jbgz5gvwxewsp26&dl=1", 		
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+	 	 
+			{ 
+				"name": "Guflix Live", 
+				"image": "https://www.dropbox.com/scl/fi/4ql9k7zv8zobyk0kw8hut/guflix-live.png?rlkey=khkl42242hbumfqzll19ckmk4&dl=1", 
+				"url": "https://www.dropbox.com/scl/fi/1w7o52s7gv4dxadd2s4ar/guflix-live-folder.txt?rlkey=nqa5nre591t4wujtif73espsm&dl=1", 		
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+		 
+			{ 
+				"name": "Rerun News", 
+				"image": "https://www.dropbox.com/scl/fi/k408mkjzn605uwinehzh3/rerun-news.png?rlkey=oy7ehcg0pnv81fxzet90koljm&dl=1", 
+				"url": "https://www.dropbox.com/scl/fi/ghos24atqiacytkrxfufw/rerun-news.txt?rlkey=dobaek02ewd5jggcnhd2uyx8b&dl=1", 		
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+				
+			{ 
+				"name": "Rerun ซิทคอม", 
+				"image": "https://www.dropbox.com/scl/fi/0hs5ueq2fk1mishnqq93d/sitcom.png?rlkey=74n0soon6u6wvogja7pownjii&dl=1", 
+				"url": "https://www.dropbox.com/scl/fi/igniwhy7i05vqj8yw3nml/gluflix-rerun.txt?rlkey=g05jp3ot7ecifmc9frn281whu&dl=1", 		
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+	 
+			{ 
+				"name": "Rerun Varity", 
+				"image": "https://www.dropbox.com/scl/fi/o0sf0nhx08t60i1vxqu90/varity-rerun.png?rlkey=o86r342n3kwlzn9nnqzqo7h3o&dl=1", 
+				"url": "https://www.dropbox.com/scl/fi/vr4r84x3c6u69zlib7slk/rerun-varity.txt?rlkey=8e21ypsuzerez8hkuyz8scf2e&dl=1", 		
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},	 
+	 
+			{ 
+				"name": "Movies", 
+				"image": "https://www.dropbox.com/scl/fi/hrh1p6bbr32gperp4q49b/guflix-movies.png?rlkey=egc0tlox40kjbaonbfko0qdx3&dl=1", 
+				"url": "https://www.dropbox.com/scl/fi/yi9ht3390z78wa8297oe8/movies.txt?rlkey=4xrgrljpziacuehcf92ta60e4&dl=1", 		
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},	 
+	 
+			{ 
+				"name": "Sport Thai", 
+				"image": "https://www.dropbox.com/scl/fi/33jpvpxm0g9k6dbtoonbb/small-sport-tv.jpg?rlkey=6jw8x2bnik61w7b9imarndgo1&dl=1", 
+				"url": "https://www.dropbox.com/scl/fi/hatq7wqhz8e4v2cf56pqr/sport-thai.txt?rlkey=8p6vrfxkowcchck0xeyu9v8lf&dl=1", 		
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},	 
+	 
+			{ 
+				"name": "Sport Rerun", 
+				"image": "https://www.dropbox.com/scl/fi/stl8k7zgdj0sxdzn7skya/sports-rerun.png?rlkey=7r18yvhe014w5ibsqt46lmnyq&dl=1", 
+				"url": "https://www.dropbox.com/scl/fi/8q34ims7pxenkugd1vauz/rerun-sport.tex?rlkey=25owon2r2dsna2eog8d7i5a9x&dl=1", 		
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},	 
+	 
+			{ 
+				"name": "ANEMI", 
+				"image": "https://www.dropbox.com/scl/fi/l9ual8dudaiwywazfoi05/anemi.png?rlkey=l44sjtizgbfdxjqnikc4d3k8q&dl=1", 
+				"url": "https://www.dropbox.com/scl/fi/dnxijmgvf0d99ad7xhcdq/anemi.html?rlkey=g5pcg2lr9t9x3v2gi3umbo07n&dl=1", 		
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},	 
+	 
+			{ 
+				"name": "Mix-Rerun", 
+				"image": "https://www.dropbox.com/scl/fi/5tsns3ows25b9ui22rpc3/mix-rerun.png?rlkey=er7b12vpgp3m69kz6gftztw3t&dl=1", 
+				"url": "https://www.dropbox.com/scl/fi/r9gaaalgr6kxy5xvt1q85/mix-rerun.html?rlkey=c3b4e43thrx1sh8dt3fv7qji0&dl=1", 		
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},	 
+		 
+
+]
+}
+
+
+
+
+
